@@ -62,15 +62,17 @@ Passionate about building software, solving problems and exploring emerging tech
 - Microsoft AI-901 training.
 - WeThinkCode_ – GenAI for Professionals.
 
-## 📊 GitHub Statistics
+
+## 📊 My GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lerato692&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=lerato692&show_icons=true&theme=tokyonight" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lerato692&layout=compact&theme=tokyonight" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lerato692&layout=compact&theme=tokyonight" height="165" />
 
 </div>
+
 
 ## 📫 Connect With Me
 
